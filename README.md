@@ -2,7 +2,6 @@
 ![20200905_205753](https://user-images.githubusercontent.com/45555456/92304611-84d92400-efba-11ea-851b-845b2dfad166.png)
 ## 프로젝트 배경 혹은 목적 
 ![20200905_210911](https://user-images.githubusercontent.com/45555456/92304785-139a7080-efbc-11ea-8a5c-f55e9b84d76e.png)
-![20200905_210704](https://user-images.githubusercontent.com/45555456/92304752-cddda800-efbb-11ea-9536-1b6df3728e83.png)
 
 ## 예시) 경비아저씨와 소통하기
 ![20200905_202354](https://user-images.githubusercontent.com/45555456/92304088-e9de4b00-efb5-11ea-8214-30c518e278a2.png)
