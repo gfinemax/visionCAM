@@ -1,4 +1,4 @@
-## 프로젝트 제목 
+## ⭐프로젝트 제목 
 ![20200905_204321](https://user-images.githubusercontent.com/45555456/92304403-8bff3280-efb8-11ea-9f60-4b193fd7cfc2.png)
 ## 프로젝트 배경 혹은 목적 
 ![20200905_195501](https://user-images.githubusercontent.com/45555456/92303655-0c6e6500-efb2-11ea-95bd-e71de6143f3e.png)
@@ -8,7 +8,7 @@
 
   ## 아파트 경비실에 택배물이 보관중이라면?
 ![20200905_201620](https://user-images.githubusercontent.com/45555456/92303951-b51dc400-efb4-11ea-9d18-84b1366ebe40.png)
-  ## 하지만 비대면 소통 방법이라면?
+  ## 하지만 Untact 소통 방법이라면?
 ![20200905_202445](https://user-images.githubusercontent.com/45555456/92304098-ff537500-efb5-11ea-9a4a-74b58f6649f7.png)
 
   ## 제품개발 방향
