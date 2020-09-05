@@ -3,7 +3,7 @@
 ## 프로젝트 배경 혹은 목적 
 ![20200905_195501](https://user-images.githubusercontent.com/45555456/92303655-0c6e6500-efb2-11ea-95bd-e71de6143f3e.png)
 
-## 예시) 경비아저씨와 소통하기-----
+## 예시) 경비아저씨와 소통하기
 ![20200905_202354](https://user-images.githubusercontent.com/45555456/92304088-e9de4b00-efb5-11ea-8214-30c518e278a2.png)
 
   ## 아파트 경비실에 택배물이 보관중이라면?
