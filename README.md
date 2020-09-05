@@ -9,8 +9,6 @@
   ## 아파트 경비실에 택배물이 보관중이라면?
 ![20200905_201620](https://user-images.githubusercontent.com/45555456/92303951-b51dc400-efb4-11ea-9d18-84b1366ebe40.png)
   ## 하지만 언택트 소통 방법이라면?
-![20200905_202445](https://user-images.githubusercontent.com/45555456/92304098-ff537500-efb5-11ea-9a4a-74b58f6649f7.png)
-![20200905_210133](https://user-images.githubusercontent.com/45555456/92304676-09c43d80-efbb-11ea-90b0-80817bb09b5b.png)
 ![20200905_210140](https://user-images.githubusercontent.com/45555456/92304678-0b8e0100-efbb-11ea-9d53-aa2fb36afe34.png)
 
   ## 제품개발 방향
