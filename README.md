@@ -69,4 +69,3 @@
 ## 구현사항(가산점) 
 * Peripheral GPIO / I2C / UART / SPI 중 사용한 프로토콜 명시
 
-출처: https://storycompiler.tistory.com/277 [아프니까 개발자다]
