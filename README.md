@@ -1,6 +1,6 @@
 ## 프로젝트 제목 
 ![20200905_205753](https://user-images.githubusercontent.com/45555456/92304611-84d92400-efba-11ea-851b-845b2dfad166.png)
-## 프로젝트 배경 혹은 목적 
+## 프로젝트 배경 OR 목적 
 ![20200905_210911](https://user-images.githubusercontent.com/45555456/92304785-139a7080-efbc-11ea-8a5c-f55e9b84d76e.png)
 
 ## 예시) 경비아저씨와 소통하기
