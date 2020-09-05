@@ -1,7 +1,7 @@
 ## 프로젝트 제목 
 # VisionCAM~* 아날로그를 부탁해
 ## 프로젝트 배경 혹은 목적 
-![image](https://user-images.githubusercontent.com/45555456/92303632-c7e2c980-efb1-11ea-9165-ceeebe2fd591.png)
+![20200905_195501](https://user-images.githubusercontent.com/45555456/92303655-0c6e6500-efb2-11ea-95bd-e71de6143f3e.png)
 
  ## 익숙한 아날로그 표현을 디지털의 편리함으로 바꿔준다
    * 비젼캠은 실시간 영상 스트리밍 송신장비로 비대면에 필요한 효과적인 동영상 정보전달을 목적으로 개발한다. 
