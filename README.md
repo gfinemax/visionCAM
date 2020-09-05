@@ -13,6 +13,7 @@
 
   ## 제품개발 방향
 ![develop](https://user-images.githubusercontent.com/45555456/92303594-5276f900-efb1-11ea-9342-c492c79785e3.png)
+  ## 하드웨어 예시
 ![develop2](https://user-images.githubusercontent.com/45555456/92303606-6f133100-efb1-11ea-8f68-0ce769537ca3.png)
   
 ## 팀명 및 팀원
