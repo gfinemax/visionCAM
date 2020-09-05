@@ -22,7 +22,7 @@
     5.퇴근 또는 필요할 때 스마트폰 앱으로 영상을 확인한다.
     6.택배물 도착 확인한 후, 경비실에서 택배물 수령
   ## 제품개발 방향
-  ![image](https://user-images.githubusercontent.com/45555456/92302543-2440eb80-efa8-11ea-94a7-a8a4995e2788.png)
+
   
 ## 팀명 및 팀원
 <img width="1280" alt="20200905_184235" src="https://user-images.githubusercontent.com/45555456/92302513-d1673400-efa7-11ea-8b70-bfb429600b72.png">
