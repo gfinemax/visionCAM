@@ -4,12 +4,12 @@
 ![20200905_195501](https://user-images.githubusercontent.com/45555456/92303655-0c6e6500-efb2-11ea-95bd-e71de6143f3e.png)
 
 ## 예시) 경비아저씨와 소통하기-----
-![20200905_201142](https://user-images.githubusercontent.com/45555456/92303891-47719800-efb4-11ea-8e3c-6f39f8365fcb.png)
+![20200905_202354](https://user-images.githubusercontent.com/45555456/92304088-e9de4b00-efb5-11ea-8214-30c518e278a2.png)
 
   ## 아파트 경비실에 택배물이 보관중이라면?
 ![20200905_201620](https://user-images.githubusercontent.com/45555456/92303951-b51dc400-efb4-11ea-9d18-84b1366ebe40.png)
   ## 하지만 비대면 소통 방법이라면?
-  ![20200905_201256](https://user-images.githubusercontent.com/45555456/92303913-66702a00-efb4-11ea-8606-cc4da97c0d46.png)
+![20200905_202445](https://user-images.githubusercontent.com/45555456/92304098-ff537500-efb5-11ea-9a4a-74b58f6649f7.png)
 
   ## 제품개발 방향
 ![develop](https://user-images.githubusercontent.com/45555456/92303594-5276f900-efb1-11ea-9342-c492c79785e3.png)
