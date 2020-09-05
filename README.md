@@ -20,7 +20,7 @@
     5.퇴근 또는 필요할 때 스마트폰 앱으로 영상을 확인한다.
     6.택배물 도착 확인한 후, 경비실에서 택배물 수령
   ## 제품개발
-  ![image](https://user-images.githubusercontent.com/45555456/92301782-7fbbab00-efa1-11ea-9868-3394877db835.png)
+  ![image](https://user-images.githubusercontent.com/45555456/92302543-2440eb80-efa8-11ea-94a7-a8a4995e2788.png)
   
 ## 팀명 및 팀원 * 간단히 적어주세요. 
 * 팀원이 맡은 역할을 자유롭게 적어주세요(기획/디자인/설계/개발/디버깅/기술조언/환경설정/발표 등) 
