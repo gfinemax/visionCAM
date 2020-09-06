@@ -1,0 +1,12 @@
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\VisionCam.AssemblyInfoInputs.cache
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\VisionCam.AssemblyInfo.cs
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\VisionCam.csproj.CoreCompileInputs.cache
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\VisionCam.dll
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\VisionCam.pdb
+C:\Workspace\VisionCam\VisionCam\VisionCam\bin\Debug\netstandard2.0\VisionCam.deps.json
+C:\Workspace\VisionCam\VisionCam\VisionCam\bin\Debug\netstandard2.0\VisionCam.dll
+C:\Workspace\VisionCam\VisionCam\VisionCam\bin\Debug\netstandard2.0\VisionCam.pdb
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Workspace\VisionCam\VisionCam\VisionCam\obj\Debug\netstandard2.0\VisionCam.csprojAssemblyReference.cache
