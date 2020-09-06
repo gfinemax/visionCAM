@@ -17,8 +17,7 @@
 ![develop2](https://user-images.githubusercontent.com/45555456/92303606-6f133100-efb1-11ea-8f68-0ce769537ca3.png)
   
 ## 팀명 및 팀원
-<img width="1280" alt="20200905_184235" src="https://user-images.githubusercontent.com/45555456/92302513-d1673400-efa7-11ea-8b70-bfb429600b72.png">
-
+![20200906_103016](https://user-images.githubusercontent.com/45555456/92316233-18970880-f02c-11ea-846d-1e40a87f98a6.png)
 
 ## 타이젠 오픈소스에 컨트리뷰션한 내역 
 * 팀원이 소스를 타이젠 오픈소스에 컨트리뷰션한 경우에만 적어주세요. 
